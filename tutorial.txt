@@ -1,0 +1,19 @@
+mkdir 2022210004
+cd 2022210004
+pwd
+echo "Hello,This is our first lab"
+touch names.txt
+cat>names.txt
+hello
+hi
+bye
+sam
+jam
+ctrl d
+cat names.txt
+touch random.txt
+cp names.txt random.txt
+cat random.txt
+rm names.txt
+tail -2 random.txt
+wc -l random.txt
